@@ -7,7 +7,7 @@ An interactive tool for tracking and optimizing weapon essence engravings.
 ### Main Window
 ![Main Window](images/preview_main.png)
 
-### Selection Details
+### Engraving Details
 ![Selection Details](images/preview_detail.png)
 
 ## How to Use
