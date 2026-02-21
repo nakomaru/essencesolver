@@ -453,7 +453,7 @@
                 
                 filtered = filtered.filter(r => r.p2Count > 0 || r.p1Count > 0);
 
-                return filtered.sort((a, b) => b.score - a.score).slice(0, 50);
+                return filtered.sort((a, b) => b.score - a.score).slice(0, 100);
             }, [data, priorities]);
 
             const groupedWeapons = useMemo(() => {
